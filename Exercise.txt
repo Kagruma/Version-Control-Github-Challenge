@@ -1,0 +1,5 @@
+1. The terminal is a very powerful interface in which you can type/execute commands.
+
+2.Git is a version control system that allows you to organize your revisions made to you software. However, GitHub is where you can store those revisions made to whatever file you are editing.
+
+3.We use GitHub due to it's ability to be easily collaborated on and fork of text/software/code can be easily created. Version control is extremely useful in many circumstances.
